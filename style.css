@@ -348,7 +348,7 @@ body.menu-expanded button path {
   width: 28rem;
   height: 22rem;
   margin: auto;
-  background-image: url(/assets/tl2.png);
+  background-image: url(./assets/tl2.png);
   background-size: 115%;
   background-repeat: no-repeat;
   background-position: -5rem -8.9rem;
@@ -419,7 +419,7 @@ body.menu-expanded button path {
   width: 28rem;
   height: 22rem;
   margin: auto;
-  background-image: url(/assets/tl2.png);
+  background-image: url(./assets/tl2.png);
   background-size: 110%;
   background-repeat: no-repeat;
   background-position: -5rem -4.9rem;
