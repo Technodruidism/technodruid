@@ -731,15 +731,8 @@ body.menu-expanded button path {
 
 .hormones {
   display: flex;
-}
+  justify-content: space-between;
 
-.hormones .p1 {
-  text-align: left;
-  text-align: center;
-}
-
-.hormones .p2 {
-  margin-left: 3.1rem;
 }
 
 .sebastian span{
